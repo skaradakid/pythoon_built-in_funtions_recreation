@@ -1,0 +1,120 @@
+abs(): Returns the absolute value of a number.
+
+all(): Returns True if all elements of an iterable are true.
+
+any(): Returns True if any element of an iterable is true.
+
+bin(): Converts an integer to a binary string.
+
+bool(): Converts a value to a Boolean (True or False).
+
+callable(): Checks if an object is callable (like a function).
+
+chr(): Converts an integer to a character (based on Unicode).
+
+classify(): Returns the type of object.
+
+divmod(): Returns a tuple of the quotient and remainder of dividing two numbers.
+
+enumerate(): Adds a counter to an iterable and returns it as an enumerate object.
+
+eval(): Evaluates a string as a Python expression.
+
+exec(): Executes a string of Python code.
+
+filter(): Filters an iterable based on a function.
+
+
+format(): Returns a formatted string.
+
+frozenset(): Returns a new frozenset object.
+
+getattr(): Returns the value of a specified attribute of an object.
+
+globals(): Returns the global symbol table as a dictionary.
+
+hasattr(): Checks if an object has a specified attribute.
+
+hash(): Returns the hash value of an object.
+
+help(): Provides interactive help.
+
+hex(): Converts an integer to a hexadecimal string.
+
+id(): Returns the identity of an object.
+
+input(): Reads a line of input from the user.
+
+int(): Converts a value to an integer.
+
+isinstance(): Checks if an object is an instance of a specific class.
+
+issubclass(): Checks if a class is a subclass of another class.
+
+iter(): Returns an iterator object for an iterable.
+
+len(): Returns the length of an object.
+
+list(): Converts an iterable to a list.
+
+locals(): Returns the local symbol table as a dictionary.
+
+map(): Applies a function to all items in an iterable.
+
+max(): Returns the largest item in an iterable or the largest of two or more arguments.
+
+min(): Returns the smallest item in an iterable or the smallest of two or more arguments.
+
+next(): Returns the next item from an iterator.
+
+object(): Returns a new object.
+
+oct(): Converts an integer to an octal string.
+
+open(): Opens a file and returns a file object.
+
+ord(): Converts a character to its Unicode code point.
+
+pow(): Returns the result of a number raised to a power.
+
+print(): Prints to the console.
+
+property(): Returns a property attribute.
+
+range(): Returns an iterator that produces a sequence of numbers.
+
+repr(): Returns a string representation of an object.
+
+reversed(): Returns a reversed iterator over an iterable.
+
+round(): Rounds a number to a specified number of decimal places.
+
+set(): Returns a new set object.
+
+slice(): Returns a slice object.
+
+sorted(): Returns a sorted list from an iterable.
+
+str(): Converts an object to a string.
+
+sum(): Returns the sum of an iterable.
+
+super(): Returns a proxy object that represents the parent classes.
+
+tuple(): Converts an iterable to a tuple.
+
+type(): Returns the type of an object.
+
+vars(): Returns the __dict__ attribute of an object.
+
+zip(): Combines two or more iterables into tuples.
+
+__import__(): Used for dynamic imports.
+
+2. Mathematical Functions:
+
+all(), any(), sum(), max(), min()
+
+abs(), pow()
+
+divmod(), round()
